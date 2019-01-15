@@ -1,0 +1,24 @@
+{
+  "name": "sensors-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "neural.test.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilja903/sensors-ml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilja903/sensors-ml/issues"
+  },
+  "homepage": "https://github.com/ilja903/sensors-ml#readme",
+  "dependencies": {
+    "ava": "^1.1.0",
+    "brain.js": "^1.6.1",
+    "flat": "^4.1.0"
+  }
+}

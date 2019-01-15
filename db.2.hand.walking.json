@@ -1,0 +1,4274 @@
+{
+  "markers": [
+    {
+      "timestamp": "2019-01-06T18:54:17.912Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 321.10252277129405,
+        "beta": 30.475889010999357,
+        "gamma": -3.673608692211512,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 208537.69999998622
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.8719428777694702,
+          "y": -0.27164602279663086,
+          "z": -0.15517711639404297
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.33039984107017517,
+          "y": 4.702212333679199,
+          "z": 8.279149055480957
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 14.893032824821459,
+          "beta": 17.39555095746431,
+          "gamma": 16.724143362052054
+        },
+        "timeStamp": 208537.10000001593
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:20.667Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 321.10252277129405,
+        "beta": 30.475889010999357,
+        "gamma": -3.673608692211512,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 208537.69999998622
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.8719428777694702,
+          "y": -0.27164602279663086,
+          "z": -0.15517711639404297
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.33039984107017517,
+          "y": 4.702212333679199,
+          "z": 8.279149055480957
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 14.893032824821459,
+          "beta": 17.39555095746431,
+          "gamma": 16.724143362052054
+        },
+        "timeStamp": 208537.10000001593
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:20.672Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 321.10252277129405,
+        "beta": 30.475889010999357,
+        "gamma": -3.673608692211512,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 208537.69999998622
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.8719428777694702,
+          "y": -0.27164602279663086,
+          "z": -0.15517711639404297
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.33039984107017517,
+          "y": 4.702212333679199,
+          "z": 8.279149055480957
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 14.893032824821459,
+          "beta": 17.39555095746431,
+          "gamma": 16.724143362052054
+        },
+        "timeStamp": 208537.10000001593
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:20.859Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 51.27818965091041,
+        "beta": 7.617618555990306,
+        "gamma": 39.666766342619056,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 221776.20000002207
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 5.783172130584717,
+          "y": 4.489198684692383,
+          "z": 0.14568233489990234
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.4213795065879822,
+          "y": 5.789179801940918,
+          "z": 7.627926826477051
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -11.413922291819139,
+          "beta": 2.9908139059357617,
+          "gamma": -0.7324441935478972
+        },
+        "timeStamp": 221776.00000001257
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:21.579Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 51.37763730759987,
+        "beta": 18.60376427090989,
+        "gamma": 28.827982429622484,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 222759.5999999903
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 4.696134567260742,
+          "y": 3.4802050590515137,
+          "z": -0.4833688735961914
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.20111294090747833,
+          "y": 6.607996463775635,
+          "z": 7.65186882019043
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -7.7517012173579465,
+          "beta": 18.189031108817613,
+          "gamma": 1.5259254121182613
+        },
+        "timeStamp": 222776.10000001732
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:22.497Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 77.4555487507024,
+        "beta": 47.81168458197349,
+        "gamma": 58.09167359513101,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 223776.39999997336
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 3.8908116817474365,
+          "y": 0.4814882278442383,
+          "z": 2.1836440563201904
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.699883222579956,
+          "y": 7.747636795043945,
+          "z": 5.664681434631348
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 18.189031108817613,
+          "beta": 65.79790336926581,
+          "gamma": 46.08294823571212
+        },
+        "timeStamp": 223776.00000001257
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:23.546Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 112.2547846501701,
+        "beta": 59.86617389021961,
+        "gamma": 42.460934540508816,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 224776.6999999876
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 5.234127998352051,
+          "y": -2.1893696784973145,
+          "z": 2.631239175796509
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.9105730056762695,
+          "y": 6.291962146759033,
+          "z": 6.2632317543029785
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -18.372143357823777,
+          "beta": -10.681478418436358,
+          "gamma": 13.611254765741124
+        },
+        "timeStamp": 224776.2999999686
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:24.340Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 216.4200901763017,
+        "beta": 64.62874724145453,
+        "gamma": -20.547226251161035,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 225775.80000000307
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.9440685510635376,
+          "y": -2.6119370460510254,
+          "z": 4.354071617126465
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.4692635238170624,
+          "y": 6.248866558074951,
+          "z": 8.288725852966309
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -3.6011839427170194,
+          "beta": 13.73332902922947,
+          "gamma": 24.353770315921654
+        },
+        "timeStamp": 225775.49999998882
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:25.783Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 239.2240061950398,
+        "beta": 60.69667417557854,
+        "gamma": -27.17152578819679,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 226776.2999999686
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -3.1159729957580566,
+          "y": -3.5431289672851562,
+          "z": 1.1648144721984863
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.9241618514060974,
+          "y": 5.008669853210449,
+          "z": 5.434837818145752
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 26.123844575181725,
+          "beta": 7.507553544154902,
+          "gamma": 19.653920563130466
+        },
+        "timeStamp": 226775.90000000782
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:26.413Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 218.8475027071473,
+        "beta": 57.78334908224247,
+        "gamma": -9.461913859312016,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 227776.39999997336
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -2.0325798988342285,
+          "y": -2.173062324523926,
+          "z": 3.2955217361450195
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.173158884048462,
+          "y": 6.124367713928223,
+          "z": 8.451532363891602
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 2.1362955556212246,
+          "beta": 42.6038377027098,
+          "gamma": 8.239997417537682
+        },
+        "timeStamp": 227776.10000001732
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:27.412Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 204.1257724190355,
+        "beta": 53.513772626150676,
+        "gamma": -1.3918538744033289,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 228776.2999999686
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -2.1048874855041504,
+          "y": -0.9369421005249023,
+          "z": 1.8802275657653809
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.9632453918457031,
+          "y": 6.947973251342773,
+          "z": 7.709329605102539
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -2.014221505576291,
+          "beta": 20.691549241460464,
+          "gamma": -2.014221505576291
+        },
+        "timeStamp": 228775.90000000782
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:28.954Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 212.24552535112173,
+        "beta": 51.385081954225605,
+        "gamma": -5.134239220367258,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 229776.2999999686
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.3617196083068848,
+          "y": -1.6725263595581055,
+          "z": 0.7330493927001953
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.8140285611152649,
+          "y": 5.990292549133301,
+          "z": 6.828263282775879
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 1.2207403937276324,
+          "beta": 0.6103701968638162,
+          "gamma": -16.60206909856371
+        },
+        "timeStamp": 229775.90000000782
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:29.286Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 213.80508440172557,
+        "beta": 47.81351310042569,
+        "gamma": -4.238276162644427,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 230776.10000001732
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -2.2679922580718994,
+          "y": -1.1276311874389648,
+          "z": 2.391496181488037
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.7812861204147339,
+          "y": 6.138733386993408,
+          "z": 8.959102630615234
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 4.760887311422184,
+          "beta": -13.306069960793907,
+          "gamma": 14.893032824821459
+        },
+        "timeStamp": 230775.69999999832
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:30.483Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 225.29264117098097,
+        "beta": 47.316098668497304,
+        "gamma": -4.324809661505521,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 231776.00000001257
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.4638357162475586,
+          "y": -0.8022160530090332,
+          "z": 2.2196483612060547
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.9624691009521484,
+          "y": 6.406883716583252,
+          "z": 8.848969459533691
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -12.451551823922781,
+          "beta": 2.8687398558908277,
+          "gamma": -28.870509527253972
+        },
+        "timeStamp": 231775.59999999357
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:31.406Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 229.81250556662508,
+        "beta": 49.87086147543452,
+        "gamma": 0.7722397268423339,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 232775.69999999832
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.44231379032135,
+          "y": -1.5179362297058105,
+          "z": -0.3242030143737793
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.5275006294250488,
+          "y": 5.980715751647949,
+          "z": 5.995080947875977
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 2.9908139059357617,
+          "beta": 16.235846308098672,
+          "gamma": 15.07614336628033
+        },
+        "timeStamp": 232775.29999997932
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:32.946Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 234.27132578793655,
+        "beta": 46.48160395183817,
+        "gamma": -5.429933785447286,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 233776.10000001732
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -2.803359031677246,
+          "y": -1.6333913803100586,
+          "z": 0.25905704498291016
+        },
+        "accelerationIncludingGravity": {
+          "x": -2.164358377456665,
+          "y": 5.477933406829834,
+          "z": 6.981492042541504
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 23.926511247486093,
+          "beta": 13.122958565561389,
+          "gamma": -1.6479994621631953
+        },
+        "timeStamp": 233775.69999999832
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:33.278Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 101.81005259988184,
+        "beta": 41.84897659338055,
+        "gamma": 12.113093739359156,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 234776.20000002207
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 2.3517675399780273,
+          "y": -1.1752963066101074,
+          "z": 1.3957109451293945
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.8188169598579407,
+          "y": 5.367800235748291,
+          "z": 8.537723541259766
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -8.362071681026027,
+          "beta": -107.66929890614013,
+          "gamma": -123.41684645273813
+        },
+        "timeStamp": 234775.69999999832
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:34.681Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 51.67092146485564,
+        "beta": 34.789422473391134,
+        "gamma": 11.504809656304348,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 235775.90000000782
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.2994033098220825,
+          "y": 3.1145191192626953,
+          "z": -1.8679146766662598
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.9057846069335938,
+          "y": 8.710105895996094,
+          "z": 6.023811340332031
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 11.230811750360266,
+          "beta": -14.465773756385895,
+          "gamma": 11.65807081879583
+        },
+        "timeStamp": 235775.49999998882
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:35.399Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 40.77974662867207,
+        "beta": 37.94217411910753,
+        "gamma": 2.740011896677222,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 236776.00000001257
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.3170579969882965,
+          "y": 0.7787890434265137,
+          "z": -1.3703546524047852
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.05267243832349777,
+          "y": 6.809109687805176,
+          "z": 6.354211330413818
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 17.883846303870396,
+          "beta": -16.29688429361649,
+          "gamma": 28.809471541736155
+        },
+        "timeStamp": 236775.59999999357
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:36.324Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 28.666581992657644,
+        "beta": 44.76917025884194,
+        "gamma": 3.686351702853137,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 237775.80000000307
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.10288473963737488,
+          "y": -1.2709965705871582,
+          "z": -1.1772093772888184
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.3447650372982025,
+          "y": 5.635950565338135,
+          "z": 5.770026206970215
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 36.439100203153046,
+          "beta": -6.164738780217218,
+          "gamma": -5.920590680127351
+        },
+        "timeStamp": 237775.39999998407
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:37.549Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 38.78591265200122,
+        "beta": 29.28620343839506,
+        "gamma": 1.3090803506805,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 238775.29999997932
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.2009788751602173,
+          "y": -0.07604455947875977,
+          "z": 2.7114734649658203
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.0055646896362305,
+          "y": 4.721365928649902,
+          "z": 11.262324333190918
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 11.841181360254701,
+          "beta": -23.194067374103312,
+          "gamma": 10.437329891459667
+        },
+        "timeStamp": 238775.00000002328
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:38.472Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 56.171581532274324,
+        "beta": 32.78859504175713,
+        "gamma": 6.035967131421614,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 239775.80000000307
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.32582688331604004,
+          "y": 1.0864753723144531,
+          "z": -0.7332882881164551
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.5410895943641663,
+          "y": 6.3973069190979,
+          "z": 7.465120792388916
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 19.226661494694902,
+          "beta": 0.3051850984319081,
+          "gamma": 60.792870519074704
+        },
+        "timeStamp": 239775.49999998882
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:39.392Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 84.07187004182376,
+        "beta": 33.107703557854634,
+        "gamma": 2.3642830272562834,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 240775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.20960378646850586,
+          "y": 0.03959178924560547,
+          "z": -2.2504634857177734
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.12928688526153564,
+          "y": 5.396530628204346,
+          "z": 5.95677375793457
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 9.460737491100197,
+          "beta": 0.7934812185703641,
+          "gamma": 17.151402430487618
+        },
+        "timeStamp": 240775.19999997457
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:40.314Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 89.56897435274203,
+        "beta": 28.80188382310449,
+        "gamma": 2.6609355951729907,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 241775.69999999832
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.8546303510665894,
+          "y": -0.39595842361450195,
+          "z": -2.450265407562256
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.455674648284912,
+          "y": 4.32871675491333,
+          "z": 6.133944988250732
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 28.199101931841717,
+          "beta": -1.1597033687051657,
+          "gamma": -18.250069094335434
+        },
+        "timeStamp": 241775.19999997457
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:41.545Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 67.36806121324891,
+        "beta": 28.973678545821457,
+        "gamma": 1.7938262814814296,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 242775.59999999357
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.0395102500915527,
+          "y": -0.06777620315551758,
+          "z": 2.6970643997192383
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.7709329724311829,
+          "y": 4.683058738708496,
+          "z": 11.27190113067627
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -49.073761714761055,
+          "beta": -29.541917122666227,
+          "gamma": -33.20413819712742
+        },
+        "timeStamp": 242775.29999997932
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:42.469Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 39.08410835518849,
+        "beta": 33.70942642431402,
+        "gamma": 1.0072779952481876,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 243775.90000000782
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.9334995746612549,
+          "y": 0.4566068649291992,
+          "z": -0.8636565208435059
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.790086567401886,
+          "y": 5.899312973022461,
+          "z": 7.292738437652588
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 6.714072112141126,
+          "beta": -18.127994830847086,
+          "gamma": -16.907253903510927
+        },
+        "timeStamp": 243775.49999998882
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:43.386Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 14.318145528536428,
+        "beta": 50.62419900566837,
+        "gamma": 2.4757642390672263,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 244775.19999997457
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.11551547050476074,
+          "y": -0.8530731201171875,
+          "z": -0.1483907699584961
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.15322890877723694,
+          "y": 6.7277069091796875,
+          "z": 6.066906929016113
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 36.62221074461192,
+          "beta": -18.921474982200394,
+          "gamma": -6.653034980396954
+        },
+        "timeStamp": 244775.69999999832
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:44.308Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 306.94801824726954,
+        "beta": 65.26015544011591,
+        "gamma": 7.606261163550241,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 245774.80000001378
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.7305185198783875,
+          "y": -0.2685527801513672,
+          "z": -0.006824493408203125
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.2737152576446533,
+          "y": 8.638279914855957,
+          "z": 4.060565948486328
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 48.4023541193488,
+          "beta": -81.42338177501735,
+          "gamma": -43.64146979613438
+        },
+        "timeStamp": 245774.60000000428
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:45.537Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 219.00796036895164,
+        "beta": 71.00086007490226,
+        "gamma": -3.665635670507035,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 246775.19999997457
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.529694676399231,
+          "y": 0.5818490982055664,
+          "z": -1.3896361589431763
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.3256114423274994,
+          "y": 9.854534149169922,
+          "z": 1.7956513166427612
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.428144224282253,
+          "beta": -43.27524529812205,
+          "gamma": -26.367991394611124
+        },
+        "timeStamp": 246774.90000001853
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:46.457Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 199.92938739896758,
+        "beta": 63.675984347172125,
+        "gamma": -0.9008856614937327,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 247775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.9906492233276367,
+          "y": -1.9573478698730469,
+          "z": -0.04680442810058594
+        },
+        "accelerationIncludingGravity": {
+          "x": 2.0590133666992188,
+          "y": 6.833051681518555,
+          "z": 4.299986362457275
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 6.042664943615696,
+          "beta": -8.850367881205763,
+          "gamma": 5.55436874343596
+        },
+        "timeStamp": 247775.29999997932
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:47.385Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 229.9424780052148,
+        "beta": 58.111454063833,
+        "gamma": -6.831006299711453,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 248775.39999998407
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.2657036781311035,
+          "y": 1.0961666107177734,
+          "z": 0.8574018478393555
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.8818424940109253,
+          "y": 9.423578262329102,
+          "z": 5.999869346618652
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -6.530961143795431,
+          "beta": 1.9531845872755298,
+          "gamma": 30.884732313490733
+        },
+        "timeStamp": 248775.09999996983
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:48.301Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 244.8702235005179,
+        "beta": 50.717551289416036,
+        "gamma": -8.088503257001227,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 249775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -2.1377673149108887,
+          "y": -2.3957343101501465,
+          "z": -1.5162858963012695
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.2641384601593018,
+          "y": 5.195417881011963,
+          "z": 4.630385875701904
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 3.9674063062952323,
+          "beta": 54.750205575459006,
+          "gamma": 48.4023541193488
+        },
+        "timeStamp": 249775.19999997457
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:49.530Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 266.56679787156656,
+        "beta": 48.926455880663404,
+        "gamma": -6.407052559732483,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 250775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -3.7644381523132324,
+          "y": -0.10042953491210938,
+          "z": -0.37888193130493164
+        },
+        "accelerationIncludingGravity": {
+          "x": -3.045424461364746,
+          "y": 7.292738437652588,
+          "z": 6.023811340332031
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 10.742515550180531,
+          "beta": 91.43345430558874,
+          "gamma": 18.433179635794303
+        },
+        "timeStamp": 250775.19999997457
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:50.452Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 273.418268609733,
+        "beta": 49.4445404155286,
+        "gamma": -0.40065737359505743,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 251775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.6718676686286926,
+          "y": 0.19600200653076172,
+          "z": 2.003983974456787
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.6272808313369751,
+          "y": 7.647080421447754,
+          "z": 8.379706382751465
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -12.695699497125826,
+          "beta": 2.1973326873653973,
+          "gamma": -22.400585515202714
+        },
+        "timeStamp": 251775.19999997457
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:51.374Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 231.3040643096446,
+        "beta": 47.232983356024846,
+        "gamma": 2.4945825058363957,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 252774.70000000903
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.7543075084686279,
+          "y": -0.3522019386291504,
+          "z": -1.1168146133422852
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.4644751250743866,
+          "y": 6.847416877746582,
+          "z": 5.535394191741943
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.73332902922947,
+          "beta": -38.148136476895296,
+          "gamma": -52.43079969182232
+        },
+        "timeStamp": 252774.49999999953
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:52.398Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 162.49906326253557,
+        "beta": 41.6250147987096,
+        "gamma": 2.0569389990977065,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 253775.80000000307
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.8145626783370972,
+          "y": -0.6390409469604492,
+          "z": 0.2975945472717285
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.5514427423477173,
+          "y": 5.875370979309082,
+          "z": 7.623138427734375
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 4.394665374730795,
+          "beta": -63.23434895865244,
+          "gamma": -36.50013818867087
+        },
+        "timeStamp": 253774.90000001853
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:53.524Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 155.25622081406658,
+        "beta": 51.90631499790956,
+        "gamma": 7.321432928227046,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 254774.90000001853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.2402745485305786,
+          "y": 0.1108856201171875,
+          "z": -2.227241277694702
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.4692635238170624,
+          "y": 7.829039573669434,
+          "z": 3.773261785507202
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 0.6714072218862832,
+          "beta": -9.76592314982106,
+          "gamma": 12.39051469217861
+        },
+        "timeStamp": 254774.49999999953
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:54.446Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 157.32575358843334,
+        "beta": 45.54242836360911,
+        "gamma": 6.384725449197504,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 255775.19999997457
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.8691384792327881,
+          "y": -0.05652904510498047,
+          "z": -1.4004998207092285
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.10534487664699554,
+          "y": 6.943184852600098,
+          "z": 5.4252610206604
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 23.010955125097148,
+          "beta": -39.97924872167319,
+          "gamma": 1.770073512208129
+        },
+        "timeStamp": 255774.70000000903
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:55.367Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 162.3281977043526,
+        "beta": 45.479545920232574,
+        "gamma": -9.408925079641351,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 256774.49999999953
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.5590861439704895,
+          "y": -0.839388370513916,
+          "z": 0.10730695724487305
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.5650315880775452,
+          "y": 6.1530985832214355,
+          "z": 6.890512466430664
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -15.015107088309804,
+          "beta": 72.87820040630609,
+          "gamma": 43.09213475666318
+        },
+        "timeStamp": 256774.19999998529
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:56.597Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 200.00583446320425,
+        "beta": 41.586113584228116,
+        "gamma": 2.0565144064692578,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 257775.49999998882
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.4606008529663086,
+          "y": -0.476043701171875,
+          "z": 1.5142149925231934
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.723825216293335,
+          "y": 6.033388137817383,
+          "z": 8.844181060791016
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 4.2115544063851,
+          "beta": 57.92412959596682,
+          "gamma": 29.786065649642918
+        },
+        "timeStamp": 257775.09999996983
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:57.519Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 230.2277806211924,
+        "beta": 41.58209407112614,
+        "gamma": -0.9669352523177482,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 258775.19999997457
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.15252210199832916,
+          "y": 0.5300478935241699,
+          "z": 1.5244331359863281
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.028730420395731926,
+          "y": 7.038952827453613,
+          "z": 8.858546257019043
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 1.6479994621631953,
+          "beta": 27.405621780488413,
+          "gamma": 36.80532128607079
+        },
+        "timeStamp": 258774.70000000903
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:58.297Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 274.85989071579326,
+        "beta": 40.47451602636125,
+        "gamma": -5.280043765901221,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 259774.80000001378
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.030488133430480957,
+          "y": -0.6676177978515625,
+          "z": -0.590179443359375
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.6560112833976746,
+          "y": 5.698200225830078,
+          "z": 6.8378400802612305
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 6.714072112141126,
+          "beta": 36.439100203153046,
+          "gamma": 27.161473253511723
+        },
+        "timeStamp": 259774.39999999478
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:54:59.359Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 292.68993050631144,
+        "beta": 38.60431723790647,
+        "gamma": -4.106298941985415,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 260774.90000001853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.5669121146202087,
+          "y": -0.3250432014465332,
+          "z": 0.7168025970458984
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.115697979927063,
+          "y": 5.793968200683594,
+          "z": 8.360552787780762
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 8.728293617717418,
+          "beta": -30.03021417661961,
+          "gamma": -40.5285803460498
+        },
+        "timeStamp": 260774.60000000428
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:00.589Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 201.25145108354585,
+        "beta": 40.86836830261199,
+        "gamma": 0.9799061741314053,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 261774.70000000903
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 2.11759352684021,
+          "y": -2.0188493728637695,
+          "z": 3.1111884117126465
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.479616641998291,
+          "y": 4.520252704620361,
+          "z": 10.079588890075684
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 16.60206909856371,
+          "beta": -124.63759250271616,
+          "gamma": -120.79226430189068
+        },
+        "timeStamp": 261774.29999999003
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:01.277Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 113.80942728106864,
+        "beta": 33.079773837888844,
+        "gamma": 1.0593856802062798,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 262775.0999999698
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.5206365585327148,
+          "y": 0.7428336143493652,
+          "z": -1.2052993774414062
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.3687070608139038,
+          "y": 6.095637321472168,
+          "z": 7.010222434997559
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 7.202367885434039,
+          "beta": -6.347849748562913,
+          "gamma": -42.23761661979205
+        },
+        "timeStamp": 262774.49999999953
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:02.443Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 60.28212464083755,
+        "beta": 34.64233971637705,
+        "gamma": 3.3227813940424986,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 263774.90000001853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.5394784808158875,
+          "y": 0.5734109878540039,
+          "z": 2.192854881286621
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.07182604819536209,
+          "y": 6.14831018447876,
+          "z": 10.247182846069336
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -6.897183080486821,
+          "beta": -13.73332902922947,
+          "gamma": -39.67406220917868
+        },
+        "timeStamp": 263774.6000000043
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:03.354Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 19.977798897868688,
+        "beta": 35.094916038316576,
+        "gamma": -3.2390933329907794,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 264775.0999999698
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.6832293272018433,
+          "y": 1.9224023818969727,
+          "z": 0.4790782928466797
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.2298433631658554,
+          "y": 7.560888767242432,
+          "z": 8.489839553833008
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -7.202367885434039,
+          "beta": 2.7466658058458937,
+          "gamma": -28.13806565387119
+        },
+        "timeStamp": 264774.70000000903
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:04.584Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 358.3865035642783,
+        "beta": 36.49311596421163,
+        "gamma": -3.6964246895067268,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 265774.1999999853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.2051977515220642,
+          "y": 0.339937686920166,
+          "z": -0.7614202499389648
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.7134721279144287,
+          "y": 6.172252178192139,
+          "z": 7.105990409851074
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -3.845332042806887,
+          "beta": -9.15555268615298,
+          "gamma": -36.86635927158861
+        },
+        "timeStamp": 265773.89999997104
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:07.718Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 331.51654623648517,
+        "beta": 38.622652416610606,
+        "gamma": 0.63750714906356,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 266774.09999998054
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.06687331199646,
+          "y": 0.9077277183532715,
+          "z": 0.28311586380004883
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.9816226959228516,
+          "y": 7.029376029968262,
+          "z": 7.943961143493652
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -24.353770315921654,
+          "beta": -6.2257759119613905,
+          "gamma": -20.874659782919334
+        },
+        "timeStamp": 266773.89999997104
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:07.723Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 333.2589190633317,
+        "beta": 36.55818025203288,
+        "gamma": -3.9124927573391983,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 267774.90000001853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.547080397605896,
+          "y": 0.7521133422851562,
+          "z": 0.3965721130371094
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.009576806798577309,
+          "y": 6.593631267547607,
+          "z": 8.255207061767578
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -31.128880840467424,
+          "beta": -5.920590680127351,
+          "gamma": -13.73332902922947
+        },
+        "timeStamp": 267774.6000000043
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:07.859Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 322.94176930871987,
+        "beta": 36.66793768604389,
+        "gamma": -4.431846637910681,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 268774.8000000138
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -3.1888012886047363,
+          "y": -0.3738546371459961,
+          "z": 1.135972023010254
+        },
+        "accelerationIncludingGravity": {
+          "x": -2.580949544906616,
+          "y": 5.48272180557251,
+          "z": 8.978256225585938
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -13.428144224282253,
+          "beta": -23.194067374103312,
+          "gamma": -28.62636100027728
+        },
+        "timeStamp": 268774.1999999853
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:08.578Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 53.21343665912985,
+        "beta": 36.50703715746282,
+        "gamma": -7.957606877333394,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 269774.3999999948
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.4695836305618286,
+          "y": -0.4332890510559082,
+          "z": -1.5621247291564941
+        },
+        "accelerationIncludingGravity": {
+          "x": -0.37828385829925537,
+          "y": 5.4013190269470215,
+          "z": 6.244078159332275
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -3.662221074461192,
+          "beta": 34.85213648535185,
+          "gamma": 63.05123841719357
+        },
+        "timeStamp": 269774.1999999853
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:11.649Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 87.33068176710546,
+        "beta": 36.91312805701431,
+        "gamma": -2.359645253007362,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 270790.7000000123
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.35498046875,
+          "y": 0.6092238426208496,
+          "z": -0.7313504219055176
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.9481038451194763,
+          "y": 6.473921298980713,
+          "z": 7.105990409851074
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -0.12207403670472061,
+          "beta": 3.1739248742814565,
+          "gamma": -17.212438708458144
+        },
+        "timeStamp": 272773.50000001024
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:11.655Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 87.33068176710546,
+        "beta": 36.91312805701431,
+        "gamma": -2.359645253007362,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 270790.7000000123
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.9161051511764526,
+          "y": 0.608123779296875,
+          "z": -1.0292716026306152
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.0678139925003052,
+          "y": 6.382941722869873,
+          "z": 6.89530086517334
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 15.564440420233712,
+          "beta": 16.35792057158702,
+          "gamma": -17.151402430487618
+        },
+        "timeStamp": 271773.8000000245
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:11.853Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 86.60439438408348,
+        "beta": 36.91290655284171,
+        "gamma": -2.0749169489348174,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 270774.09999998054
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 1.2818994522094727,
+          "y": -1.0110726356506348,
+          "z": 1.5020627975463867
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.5658079385757446,
+          "y": 4.879383087158203,
+          "z": 9.337387084960938
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 0.061037018352360306,
+          "beta": 12.817773760614172,
+          "gamma": 63.66161144218259
+        },
+        "timeStamp": 270773.70000001974
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:12.570Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 53.06884325495325,
+        "beta": 33.71243270712969,
+        "gamma": -5.552623776429816,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 273774.09999998054
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 2.01188325881958,
+          "y": 0.049241065979003906,
+          "z": -0.3906583786010742
+        },
+        "accelerationIncludingGravity": {
+          "x": 2.801215887069702,
+          "y": 5.492298603057861,
+          "z": 7.728483200073242
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -5.676442580037483,
+          "beta": -16.29688429361649,
+          "gamma": -11.230811750360266
+        },
+        "timeStamp": 273773.8000000245
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:13.493Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 47.62278699439839,
+        "beta": 36.332806275557566,
+        "gamma": -0.17605240352980595,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 274773.9999999758
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.07628127932548523,
+          "y": 0.898188591003418,
+          "z": 0.3839712142944336
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.10055647045373917,
+          "y": 6.708553314208984,
+          "z": 8.283937454223633
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -2.075258637320464,
+          "beta": -23.865474969515567,
+          "gamma": -13.000885155846689
+        },
+        "timeStamp": 274773.600000015
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:14.412Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 7.409669835088721,
+        "beta": 41.199264410879046,
+        "gamma": 0.8995915468965932,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 275774.70000000903
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 2.1413462162017822,
+          "y": -1.824641227722168,
+          "z": -0.7312121391296387
+        },
+        "accelerationIncludingGravity": {
+          "x": 2.0254945755004883,
+          "y": 4.63517427444458,
+          "z": 6.646304130554199
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -2.502517705756026,
+          "beta": -62.62398276385259,
+          "gamma": -76.11316241233172
+        },
+        "timeStamp": 275774.49999999953
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:15.335Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 241.61288004956396,
+        "beta": 35.298959531315454,
+        "gamma": -2.7062464384519354,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 276774.49999999953
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -1.4505155086517334,
+          "y": 0.08861875534057617,
+          "z": -1.2572269439697266
+        },
+        "accelerationIncludingGravity": {
+          "x": -1.072602391242981,
+          "y": 5.7556610107421875,
+          "z": 6.737283706665039
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 4.455702506474967,
+          "beta": 11.47495942356331,
+          "gamma": -14.099550965920859
+        },
+        "timeStamp": 276773.89999997104
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:17.207Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 218.1082285435859,
+        "beta": 25.627233012929302,
+        "gamma": 0.45637791254638294,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 277774.1999999853
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.1278924196958542,
+          "y": 0.5945205688476562,
+          "z": -0.9215211868286133
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.05746084079146385,
+          "y": 4.836287498474121,
+          "z": 7.920019149780273
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.855403292717815,
+          "beta": 44.190801420510994,
+          "gamma": 34.180728889939594
+        },
+        "timeStamp": 277773.89999997104
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:17.334Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 235.79007015769838,
+        "beta": 27.70977739631875,
+        "gamma": -3.0337417080771347,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 278773.89999997104
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.33538371324539185,
+          "y": -0.3319392204284668,
+          "z": -2.095283031463623
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.7948749661445618,
+          "y": 4.228160381317139,
+          "z": 6.574477672576904
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 9.704886018076888,
+          "beta": 15.259253907739202,
+          "gamma": -0.12207403670472061
+        },
+        "timeStamp": 278773.50000001024
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:18.292Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 249.32894847345054,
+        "beta": 28.447007518226822,
+        "gamma": -4.723723466813832,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 279774.09999998054
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.8221578001976013,
+          "y": -0.04137706756591797,
+          "z": 1.8025617599487305
+        },
+        "accelerationIncludingGravity": {
+          "x": 1.5322890281677246,
+          "y": 4.630385875701904,
+          "z": 10.395624160766602
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -31.678212464844037,
+          "beta": 4.94399827976788,
+          "gamma": -22.888882569156095
+        },
+        "timeStamp": 279773.8000000245
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:19.329Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 290.5546770657612,
+        "beta": 33.314428211123555,
+        "gamma": -6.063575346702897,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 280774.09999998054
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": -0.2240825891494751,
+          "y": 0.13916301727294922,
+          "z": 0.18290424346923828
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.6416460275650024,
+          "y": 5.525817394256592,
+          "z": 8.33182144165039
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -12.817773760614172,
+          "beta": 26.123844575181725,
+          "gamma": 4.699850606564835
+        },
+        "timeStamp": 280773.89999997104
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:20.565Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 248.86947687992074,
+        "beta": 33.67325581798218,
+        "gamma": 1.223343073757368,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281774.8000000138
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.710545003414154,
+          "y": -0.8550138473510742,
+          "z": 0.18693161010742188
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.5363011956214905,
+          "y": 4.5825018882751465,
+          "z": 8.346187591552734
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": -7.995849744334637,
+          "beta": -44.92324700144106,
+          "gamma": -78.00530922753285
+        },
+        "timeStamp": 281774.3999999948
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:23.323Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:23.526Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:24.244Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:25.166Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:31.926Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    },
+    {
+      "timestamp": "2019-01-06T18:55:35.303Z",
+      "battery": {
+        "charging": false,
+        "chargingTime": null,
+        "dischargingTime": null,
+        "level": 0.61
+      },
+      "deviceorientation": {
+        "alpha": 243.914772101501,
+        "beta": 33.750844199141135,
+        "gamma": 2.000287466498613,
+        "absolute": false,
+        "bubbles": false,
+        "timeStamp": 281823.80000001285
+      },
+      "devicemotion": {
+        "acceleration": {
+          "x": 0.758664608001709,
+          "y": -0.7224087715148926,
+          "z": 0.06812477111816406
+        },
+        "accelerationIncludingGravity": {
+          "x": 0.47405192255973816,
+          "y": 4.726154327392578,
+          "z": 8.216899871826172
+        },
+        "interval": 16,
+        "rotationRate": {
+          "alpha": 13.611254765741124,
+          "beta": -36.439100203153046,
+          "gamma": -84.35315726854847
+        },
+        "timeStamp": 281823.39999999385
+      },
+      "navigator": {
+        "appCodeName": "Mozilla",
+        "appVersion": "5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "hardwareConcurrency": 8,
+        "appName": "Netscape",
+        "languages": [
+          "ru-RU",
+          "en-US",
+          "et-EE",
+          "et",
+          "ru",
+          "en"
+        ],
+        "language": "ru-RU",
+        "platform": "Linux armv7l",
+        "product": "Gecko",
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; Moto G4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+        "vendor": "Google Inc.",
+        "connection": {
+          "downlink": 2.25,
+          "downlinkMax": null,
+          "effectiveType": "4g",
+          "type": "wifi"
+        }
+      }
+    }
+  ]
+}
