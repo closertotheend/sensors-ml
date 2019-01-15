@@ -4,7 +4,9 @@
   "description": "",
   "main": "neural.test.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "start": "node neural.js",
+    "debug": "ndb neural.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +19,8 @@
   },
   "homepage": "https://github.com/ilja903/sensors-ml#readme",
   "dependencies": {
-    "ava": "^1.1.0",
     "brain.js": "^1.6.1",
-    "flat": "^4.1.0"
+    "flat": "^4.1.0",
+    "ndb": "^1.0.42"
   }
 }
