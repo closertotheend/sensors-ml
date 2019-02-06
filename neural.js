@@ -2,25 +2,32 @@ const brain = require('brain.js')
 const flatten = require('flat')
 const fs = require('fs');
 
-const tableStanding1 = require('./db.table.standing.json').markers
-const tableStanding2 = require('./db.2.table.standing.json').markers
-const handJogging2 = require('./db.2.hand.jogging.json').markers
-const handWalking2 = require('./db.2.hand.walking.json').markers
-const handStanding2 = require('./db.2.table.standing.json').markers
+const modes = { table: 0, hand: 0, pocket: 0, carHolder: 0, standing: 0, jogging:0, walking:0, riding: 0}
 
-
-const processedTableStanding1 = processAll(tableStanding1, { table: 1, standing: 1 });
-const processedTableStanding2 = processAll(tableStanding2, { table: 1, standing: 1 });
-const processedHandJogging2 = processAll(handJogging2, { hand: 1, jogging: 1 });
-const processedHandWalking2 = processAll(handWalking2, { hand: 1, walking: 1, });
-const processedHandStanding2 = processAll(handStanding2, { hand: 1, standing: 1 });
+const tableStanding1 = processAll(require('./db.table.standing.json').markers, { table: 1, standing: 1 });
+const tableStanding2 = processAll(require('./db.2.table.standing.json').markers, { table: 1, standing: 1 });
+const handJogging2 = processAll(require('./db.2.hand.jogging.json').markers, { hand: 1, jogging: 1 });
+const handWalking2 = processAll(require('./db.2.hand.walking.json').markers, { hand: 1, walking: 1, });
+const handStanding2 = processAll(require('./db.2.hand.standing.json').markers, { hand: 1, standing: 1 });
+const pocketWalking3 = processAll(require('./db.3.pocket.walking.to.work.json').markers, { pocket: 1, walking: 1 });
+const carRiding4 = processAll(require('./db.4.carholder.riding.to.work.json').markers, { carHolder: 1, riding: 1 });
+const holdingPhone5 = processAll(require('./db.5.holding.phone.hand.json').markers, { hand: 1, standing: 1 });
+const carHolderStanding5 = processAll(require('./db.5.simulated.carholder.standing.json').markers, { carHolder: 1, standing: 1 });
+const walkingWithPhone5 = processAll(require('./db.5.walking.with.phone.json').markers, { hand: 1, walking: 1 });
+const carholderStanding5 = processAll(require('./db.5.carholder.standing.json').markers, { carHolder: 1, standing: 1 });
 
 const processed = [
-    ...processedTableStanding1,
-    ...processedTableStanding2,
-    ...processedHandJogging2,
-    ...processedHandWalking2,
-    ...processedHandStanding2
+    ...tableStanding1,
+    ...tableStanding2,
+    ...handJogging2,
+    ...handWalking2,
+    ...handStanding2,
+    ...pocketWalking3,
+    ...carRiding4,
+    ...holdingPhone5,
+    ...carHolderStanding5,
+    ...walkingWithPhone5,
+    ...carholderStanding5
 ]
 
 const net = new brain.NeuralNetwork()
@@ -29,7 +36,7 @@ net.train(processed, {
     log: console.log,
 })
 
-console.log(net.run(processedHandStanding2[10].input))
+console.log(net.run(handStanding2[10].input))
 
 fs.writeFile("net.json", JSON.stringify(net.toJSON()), 'utf8', (err) => {
     if (err) {
@@ -40,7 +47,7 @@ fs.writeFile("net.json", JSON.stringify(net.toJSON()), 'utf8', (err) => {
 });
 
 function processAll(elements, output) {
-    return elements.map(it => ({ input: process(it), output }))
+    return elements.map(it => ({ input: process(it),  output: {...modes, ...output}}))
 }
 
 function process(e) {

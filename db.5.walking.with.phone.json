@@ -1,0 +1,2980 @@
+{
+    "markers": [
+        {
+            "timestamp": "2019-02-04T07:00:05.850Z",
+            "deviceorientation": {
+                "alpha": 212.27888732754695,
+                "beta": 36.38269014968496,
+                "gamma": -4.387342795724016,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 2047
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.5760325193405151,
+                    "y": 0.27158641815185547,
+                    "z": -1.9125876426696777
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.9720755815505981,
+                    "y": 6.0886406898498535,
+                    "z": 5.959350109100342
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 17.77741241455078,
+                    "beta": -42.25102233886719,
+                    "gamma": -42.37499237060547
+                },
+                "timeStamp": 36626232
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:06.866Z",
+            "deviceorientation": {
+                "alpha": 191.09258431325173,
+                "beta": 42.3043161226293,
+                "gamma": 3.0164676190053052,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 3048
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.26913559436798096,
+                    "y": 1.3484516143798828,
+                    "z": 1.479590892791748
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.112530916929245,
+                    "y": 7.9489922523498535,
+                    "z": 8.722343444824219
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 6.0174102783203125,
+                    "beta": 10.248979568481445,
+                    "gamma": 15.410009384155273
+                },
+                "timeStamp": 36627233
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:07.874Z",
+            "deviceorientation": {
+                "alpha": 159.45534730194362,
+                "beta": 43.82198319467234,
+                "gamma": 2.548378656548923,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 4067
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.0684950053691864,
+                    "y": -0.3018364906311035,
+                    "z": -1.1857070922851562
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.3830839693546295,
+                    "y": 6.488484859466553,
+                    "z": 5.882733345031738
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 7.697410583496094,
+                    "beta": -25.451019287109375,
+                    "gamma": -44.29998779296875
+                },
+                "timeStamp": 36628232
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:08.942Z",
+            "deviceorientation": {
+                "alpha": 116.31507833952948,
+                "beta": 35.31486697966974,
+                "gamma": 3.0821717684906145,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 5066
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.6393475532531738,
+                    "y": -0.5547680854797363,
+                    "z": 2.0343122482299805
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.209108829498291,
+                    "y": 5.114171028137207,
+                    "z": 10.024828910827637
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 9.377409934997559,
+                    "beta": -32.97602081298828,
+                    "gamma": -40.239990234375
+                },
+                "timeStamp": 36629252
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:09.865Z",
+            "deviceorientation": {
+                "alpha": 56.717513718583966,
+                "beta": 45.00746233376068,
+                "gamma": 7.140167413620637,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 6077
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.3325624465942383,
+                    "y": -1.002525806427002,
+                    "z": 3.437467575073242
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.0271438360214233,
+                    "y": 6.047938346862793,
+                    "z": 10.410306930541992
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 13.612409591674805,
+                    "beta": -12.571019172668457,
+                    "gamma": -34.8499870300293
+                },
+                "timeStamp": 36630252
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:10.917Z",
+            "deviceorientation": {
+                "alpha": 45.043839195437904,
+                "beta": 43.57124670614385,
+                "gamma": 4.22088054616736,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 7076
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.0788272619247437,
+                    "y": -0.8597965240478516,
+                    "z": -1.638845443725586
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.6017698049545288,
+                    "y": 5.899493217468262,
+                    "z": 5.446975231170654
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 5.282410144805908,
+                    "beta": -16.806020736694336,
+                    "gamma": 7.640010356903076
+                },
+                "timeStamp": 36631261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:11.894Z",
+            "deviceorientation": {
+                "alpha": 34.33161200025842,
+                "beta": 43.556761831101646,
+                "gamma": 2.6132010004302804,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 8075
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.33439964056015015,
+                    "y": 0.058994293212890625,
+                    "z": -2.0402965545654297
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.6584255695343018,
+                    "y": 6.816500186920166,
+                    "z": 5.059102535247803
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 37.377410888671875,
+                    "beta": -46.34601974487305,
+                    "gamma": 22.340009689331055
+                },
+                "timeStamp": 36632262
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:12.874Z",
+            "deviceorientation": {
+                "alpha": 5.579166358836663,
+                "beta": 36.498783242278286,
+                "gamma": -0.17669567431895647,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 9075
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.9046701192855835,
+                    "y": 0.9714727401733398,
+                    "z": 0.7337737083435059
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.9289786219596863,
+                    "y": 6.804529190063477,
+                    "z": 8.616994857788086
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 15.397409439086914,
+                    "beta": -7.776020050048828,
+                    "gamma": -9.96498966217041
+                },
+                "timeStamp": 36633262
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:13.894Z",
+            "deviceorientation": {
+                "alpha": 348.38281511088366,
+                "beta": 33.91464437147796,
+                "gamma": -3.402497171701463,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 10075
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.5931519269943237,
+                    "y": -0.5227222442626953,
+                    "z": -1.2666916847229004
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.11013664305210114,
+                    "y": 4.948966026306152,
+                    "z": 6.857203006744385
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 7.557409763336182,
+                    "beta": 1.7089800834655762,
+                    "gamma": -8.984990119934082
+                },
+                "timeStamp": 36634261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:14.874Z",
+            "deviceorientation": {
+                "alpha": 331.57181828802806,
+                "beta": 34.827400238549785,
+                "gamma": -2.6785232511935155,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 11076
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.1537318229675293,
+                    "y": -0.4553408622741699,
+                    "z": 0.6930694580078125
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.5299415588378906,
+                    "y": 5.145296573638916,
+                    "z": 8.734314918518066
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 12.702409744262695,
+                    "beta": -45.05101776123047,
+                    "gamma": -45.90999221801758
+                },
+                "timeStamp": 36635261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:15.914Z",
+            "deviceorientation": {
+                "alpha": 263.94557454739675,
+                "beta": 41.4837714996439,
+                "gamma": -3.0151793196424457,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 12077
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.5194058418273926,
+                    "y": 0.2821826934814453,
+                    "z": 0.6221661567687988
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.9058427810668945,
+                    "y": 6.778192043304443,
+                    "z": 7.958569526672363
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -11.132590293884277,
+                    "beta": -47.571022033691406,
+                    "gamma": -41.324989318847656
+                },
+                "timeStamp": 36636261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:16.868Z",
+            "deviceorientation": {
+                "alpha": 190.0298731329529,
+                "beta": 44.86940872551509,
+                "gamma": -1.5655472704232702,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 13076
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.390350341796875,
+                    "y": -0.5952486991882324,
+                    "z": 0.2903599739074707
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.58022141456604,
+                    "y": 6.323279857635498,
+                    "z": 7.2378926277160645
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -7.527589797973633,
+                    "beta": -100.4210205078125,
+                    "gamma": -103.27499389648438
+                },
+                "timeStamp": 36637260
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:17.884Z",
+            "deviceorientation": {
+                "alpha": 105.46892800502923,
+                "beta": 41.74889076982413,
+                "gamma": 3.6687997358655133,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 14078
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.07292789220809937,
+                    "y": -0.17552757263183594,
+                    "z": 0.685856819152832
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.541106104850769,
+                    "y": 6.354405403137207,
+                    "z": 7.987300872802734
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -12.637590408325195,
+                    "beta": 14.448980331420898,
+                    "gamma": -12.204989433288574
+                },
+                "timeStamp": 36638260
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:18.874Z",
+            "deviceorientation": {
+                "alpha": 138.85978463103788,
+                "beta": 36.05515421727363,
+                "gamma": 5.381820274729391,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 15075
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.6762063503265381,
+                    "y": 0.05583620071411133,
+                    "z": 1.5258283615112305
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.4198049306869507,
+                    "y": 5.827664852142334,
+                    "z": 9.419076919555664
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 13.577409744262695,
+                    "beta": 55.64398193359375,
+                    "gamma": 46.70001220703125
+                },
+                "timeStamp": 36639261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:19.912Z",
+            "deviceorientation": {
+                "alpha": 170.25404745669817,
+                "beta": 37.07561899635988,
+                "gamma": 4.6876066070281475,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 16074
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.8788576126098633,
+                    "y": 0.1525859832763672,
+                    "z": -0.7803516387939453
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.23942747712135315,
+                    "y": 6.064698219299316,
+                    "z": 7.017619609832764
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 1.8174099922180176,
+                    "beta": 11.648981094360352,
+                    "gamma": 12.085010528564453
+                },
+                "timeStamp": 36640261
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:20.945Z",
+            "deviceorientation": {
+                "alpha": 200.39966834534494,
+                "beta": 34.39376150506544,
+                "gamma": -0.5211330590715838,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 17109
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6111642718315125,
+                    "y": -0.636075496673584,
+                    "z": 0.45330047607421875
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.6847625970840454,
+                    "y": 4.903474807739258,
+                    "z": 8.545166969299316
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 5.737410068511963,
+                    "beta": 26.59398078918457,
+                    "gamma": 33.61001205444336
+                },
+                "timeStamp": 36641260
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:21.906Z",
+            "deviceorientation": {
+                "alpha": 229.6903461763574,
+                "beta": 37.636020879911904,
+                "gamma": 1.3767177394645587,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 18115
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6151595115661621,
+                    "y": 0.5336465835571289,
+                    "z": 3.3265771865844727
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.42857518792152405,
+                    "y": 6.5220046043396,
+                    "z": 11.090280532836914
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -28.91259002685547,
+                    "beta": 35.58898162841797,
+                    "gamma": -11.749990463256836
+                },
+                "timeStamp": 36642300
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:22.955Z",
+            "deviceorientation": {
+                "alpha": 231.43294742331878,
+                "beta": 43.02975478865043,
+                "gamma": 8.261073249744125,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 19150
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.06418728828430176,
+                    "y": -0.18420839309692383,
+                    "z": 0.5362887382507324
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.0941835641860962,
+                    "y": 6.507638931274414,
+                    "z": 7.630553722381592
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 9.202409744262695,
+                    "beta": -0.041019998490810394,
+                    "gamma": 30.635009765625
+                },
+                "timeStamp": 36643300
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:23.975Z",
+            "deviceorientation": {
+                "alpha": 252.96866198463263,
+                "beta": 40.971576578565355,
+                "gamma": 11.884015979060521,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 20159
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.37793612480163574,
+                    "y": 0.13502931594848633,
+                    "z": 1.7400579452514648
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.1468576192855835,
+                    "y": 6.565101623535156,
+                    "z": 8.985713005065918
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -15.19258975982666,
+                    "beta": -51.70102310180664,
+                    "gamma": 27.240009307861328
+                },
+                "timeStamp": 36644330
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:25.035Z",
+            "deviceorientation": {
+                "alpha": 194.80739809656342,
+                "beta": 42.212632892311916,
+                "gamma": 3.004760551416017,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 21241
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.7470594048500061,
+                    "y": 0.24913358688354492,
+                    "z": 0.7578639984130859
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.3663240373134613,
+                    "y": 6.838048934936523,
+                    "z": 8.01124382019043
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 2.9024100303649902,
+                    "beta": -80.61102294921875,
+                    "gamma": -65.64998626708984
+                },
+                "timeStamp": 36645420
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:26.125Z",
+            "deviceorientation": {
+                "alpha": 127.70281610647132,
+                "beta": 41.454289602249105,
+                "gamma": 2.4526566132217726,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 22235
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 2.3496623039245605,
+                    "y": -0.14259624481201172,
+                    "z": 1.5635042190551758
+                },
+                "accelerationIncludingGravity": {
+                    "x": 2.0351336002349854,
+                    "y": 6.349617004394531,
+                    "z": 8.906702041625977
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -6.092589855194092,
+                    "beta": -59.40102005004883,
+                    "gamma": -7.969989776611328
+                },
+                "timeStamp": 36646420
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:27.067Z",
+            "deviceorientation": {
+                "alpha": 106.09105128572104,
+                "beta": 40.393340353504676,
+                "gamma": -3.539304259756076,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 23264
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.3014627695083618,
+                    "y": -0.5512943267822266,
+                    "z": -1.4138755798339844
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.8403904438018799,
+                    "y": 5.803721904754639,
+                    "z": 6.040755271911621
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 21.067411422729492,
+                    "beta": -49.28601837158203,
+                    "gamma": 42.36001205444336
+                },
+                "timeStamp": 36647449
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:28.065Z",
+            "deviceorientation": {
+                "alpha": 92.09737814491456,
+                "beta": 34.92590414413699,
+                "gamma": 0.4540665921242661,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 24265
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.4582340717315674,
+                    "y": -0.8929638862609863,
+                    "z": -0.40720081329345703
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.5219519138336182,
+                    "y": 4.72150993347168,
+                    "z": 7.63294792175293
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -5.182590007781982,
+                    "beta": -11.206019401550293,
+                    "gamma": 3.9300100803375244
+                },
+                "timeStamp": 36648450
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:29.124Z",
+            "deviceorientation": {
+                "alpha": 103.6354060550891,
+                "beta": 30.39351014337336,
+                "gamma": -2.4153163683578662,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 25264
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.3357391357421875,
+                    "y": -0.5153627395629883,
+                    "z": -1.4649248123168945
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.9792584180831909,
+                    "y": 4.446168422698975,
+                    "z": 6.986494064331055
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -6.162590026855469,
+                    "beta": 8.11397933959961,
+                    "gamma": -3.734989881515503
+                },
+                "timeStamp": 36649450
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:30.133Z",
+            "deviceorientation": {
+                "alpha": 150.9992067815103,
+                "beta": 29.01942982077993,
+                "gamma": 0.9896588129701481,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 26306
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.5200350284576416,
+                    "y": -0.004627704620361328,
+                    "z": -0.024242401123046875
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.8643332123756409,
+                    "y": 4.549122333526611,
+                    "z": 7.975329399108887
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -9.277589797973633,
+                    "beta": 51.548980712890625,
+                    "gamma": 10.300009727478027
+                },
+                "timeStamp": 36650489
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:31.109Z",
+            "deviceorientation": {
+                "alpha": 172.54185947595033,
+                "beta": 33.995849146013505,
+                "gamma": 4.243666932551661,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 27303
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6998244524002075,
+                    "y": 0.2367110252380371,
+                    "z": 1.509613037109375
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.09816526621580124,
+                    "y": 5.7199225425720215,
+                    "z": 9.617801666259766
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -28.10759162902832,
+                    "beta": 0.6239800453186035,
+                    "gamma": 4.840010166168213
+                },
+                "timeStamp": 36651489
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:32.129Z",
+            "deviceorientation": {
+                "alpha": 211.3957306486013,
+                "beta": 33.04154685582774,
+                "gamma": -0.5433876129764412,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 28321
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.12794175744056702,
+                    "y": 0.24118900299072266,
+                    "z": 0.6864042282104492
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.20590762794017792,
+                    "y": 5.588237285614014,
+                    "z": 8.906702041625977
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 4.232409954071045,
+                    "beta": 4.193979740142822,
+                    "gamma": 8.865010261535645
+                },
+                "timeStamp": 36652489
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:33.105Z",
+            "deviceorientation": {
+                "alpha": 239.46199504630653,
+                "beta": 31.24895009514959,
+                "gamma": 0.954069703000748,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 29313
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.806135892868042,
+                    "y": -1.2612175941467285,
+                    "z": 0.4090242385864258
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.9457385540008545,
+                    "y": 3.8260512351989746,
+                    "z": 8.791776657104492
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 1.1174099445343018,
+                    "beta": 19.348979949951172,
+                    "gamma": 22.165010452270508
+                },
+                "timeStamp": 36653499
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:34.145Z",
+            "deviceorientation": {
+                "alpha": 286.26125752414407,
+                "beta": 31.426284953361314,
+                "gamma": 0.9783984940738139,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 30317
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.1461007595062256,
+                    "y": -0.24325132369995117,
+                    "z": 1.9787588119506836
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.0032011270523071,
+                    "y": 4.869955062866211,
+                    "z": 10.345661163330078
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -16.067588806152344,
+                    "beta": 61.173980712890625,
+                    "gamma": 77.71001434326172
+                },
+                "timeStamp": 36654498
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:35.152Z",
+            "deviceorientation": {
+                "alpha": 2.9865551032192963,
+                "beta": 31.150852917724976,
+                "gamma": -0.010971887854676222,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 31323
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.7478020191192627,
+                    "y": -0.17901134490966797,
+                    "z": 0.5476102828979492
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.7494080066680908,
+                    "y": 4.893897533416748,
+                    "z": 8.940221786499023
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 1.3974100351333618,
+                    "beta": 47.418975830078125,
+                    "gamma": 72.84500885009766
+                },
+                "timeStamp": 36655509
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:36.185Z",
+            "deviceorientation": {
+                "alpha": 60.11813994713497,
+                "beta": 32.90297417220057,
+                "gamma": 0.5806492185232695,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 32324
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6987660527229309,
+                    "y": 0.134185791015625,
+                    "z": 1.5809803009033203
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.6153286099433899,
+                    "y": 5.46134090423584,
+                    "z": 9.814132690429688
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 4.5124101638793945,
+                    "beta": -16.456018447875977,
+                    "gamma": -3.034990072250366
+                },
+                "timeStamp": 36656509
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:37.146Z",
+            "deviceorientation": {
+                "alpha": 69.7602440106025,
+                "beta": 38.2486277938821,
+                "gamma": 4.136036471869505,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 33363
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.3982502222061157,
+                    "y": 0.34560108184814453,
+                    "z": -0.1801471710205078
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.8427847623825073,
+                    "y": 6.416656494140625,
+                    "z": 7.50126314163208
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 5.877409934997559,
+                    "beta": -29.3010196685791,
+                    "gamma": -18.189990997314453
+                },
+                "timeStamp": 36657549
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:38.156Z",
+            "deviceorientation": {
+                "alpha": 13.908249793046606,
+                "beta": 33.578024136025576,
+                "gamma": 5.189344320933795,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 34365
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.7246007919311523,
+                    "y": -0.865084171295166,
+                    "z": 2.000600814819336
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.014365648850798607,
+                    "y": 4.558699131011963,
+                    "z": 10.137359619140625
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -15.927589416503906,
+                    "beta": -7.356019973754883,
+                    "gamma": -1.3199900388717651
+                },
+                "timeStamp": 36658548
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:39.185Z",
+            "deviceorientation": {
+                "alpha": 341.16069694272807,
+                "beta": 30.333203614963914,
+                "gamma": 1.8890077944898978,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 35395
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.16154828667640686,
+                    "y": -0.19281864166259766,
+                    "z": 0.3705425262451172
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.44054657220840454,
+                    "y": 4.7598185539245605,
+                    "z": 8.830085754394531
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -16.697589874267578,
+                    "beta": 4.893980503082275,
+                    "gamma": -11.609990119934082
+                },
+                "timeStamp": 36659548
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:40.208Z",
+            "deviceorientation": {
+                "alpha": 323.89730501947724,
+                "beta": 27.984775272088818,
+                "gamma": -0.8701916621894444,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 36392
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.20607122778892517,
+                    "y": -0.39012956619262695,
+                    "z": -0.17126846313476562
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.337592750787735,
+                    "y": 4.21152925491333,
+                    "z": 8.487704277038574
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 13.227410316467285,
+                    "beta": -39.801021575927734,
+                    "gamma": -52.59498977661133
+                },
+                "timeStamp": 36660578
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:41.185Z",
+            "deviceorientation": {
+                "alpha": 288.0709537702796,
+                "beta": 28.140469223045866,
+                "gamma": 1.504775730499216,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 37393
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.0913415402173996,
+                    "y": 0.26873254776000977,
+                    "z": 0.2670326232910156
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.3184385597705841,
+                    "y": 4.893897533416748,
+                    "z": 8.911490440368652
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 6.787409782409668,
+                    "beta": -29.686019897460938,
+                    "gamma": -24.69999122619629
+                },
+                "timeStamp": 36661577
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:42.205Z",
+            "deviceorientation": {
+                "alpha": 270.58481238526366,
+                "beta": 30.156576744539123,
+                "gamma": 1.124349592304722,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 38392
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6428423523902893,
+                    "y": 0.13497209548950195,
+                    "z": -0.8735198974609375
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.47646069526672363,
+                    "y": 5.061496734619141,
+                    "z": 7.604216575622559
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -5.742589950561523,
+                    "beta": -7.216019630432129,
+                    "gamma": 38.68500900268555
+                },
+                "timeStamp": 36662578
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:43.232Z",
+            "deviceorientation": {
+                "alpha": 281.33293692246616,
+                "beta": 28.66629887077687,
+                "gamma": 0.6965256557852115,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 39428
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.5020702481269836,
+                    "y": 0.5487194061279297,
+                    "z": 0.4990348815917969
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.3974496126174927,
+                    "y": 5.2530388832092285,
+                    "z": 9.103033065795898
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 20.507410049438477,
+                    "beta": 44.96897888183594,
+                    "gamma": 33.925010681152344
+                },
+                "timeStamp": 36663577
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:44.244Z",
+            "deviceorientation": {
+                "alpha": 278.0801258400961,
+                "beta": 25.749174765514685,
+                "gamma": 1.2942956945540853,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 40427
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.37191107869148254,
+                    "y": 0.5521607398986816,
+                    "z": -1.3365559577941895
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.17238777875900269,
+                    "y": 4.812492370605469,
+                    "z": 7.494080066680908
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 12.947409629821777,
+                    "beta": -25.31102180480957,
+                    "gamma": -8.669990539550781
+                },
+                "timeStamp": 36664608
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:45.232Z",
+            "deviceorientation": {
+                "alpha": 314.3876488996141,
+                "beta": 30.873408051542572,
+                "gamma": 0.7500390751686756,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 41422
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.9864760041236877,
+                    "y": 0.491391658782959,
+                    "z": 0.03542518615722656
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.876304566860199,
+                    "y": 5.523591995239258,
+                    "z": 8.451789855957031
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -17.992589950561523,
+                    "beta": -18.626022338867188,
+                    "gamma": 6.695009708404541
+                },
+                "timeStamp": 36665608
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:46.265Z",
+            "deviceorientation": {
+                "alpha": 5.958996645175038,
+                "beta": 31.84931350064704,
+                "gamma": -0.9440102373275617,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 42421
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.304829478263855,
+                    "y": -0.1732015609741211,
+                    "z": -1.550825595855713
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.16759923100471497,
+                    "y": 5.0016398429870605,
+                    "z": 6.778192043304443
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 13.227410316467285,
+                    "beta": 19.59398078918457,
+                    "gamma": 56.535011291503906
+                },
+                "timeStamp": 36666607
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:47.217Z",
+            "deviceorientation": {
+                "alpha": 63.29581678354467,
+                "beta": 36.551878316912976,
+                "gamma": 1.1530779064242158,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 43433
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.8406802415847778,
+                    "y": -0.9895615577697754,
+                    "z": -1.2800259590148926
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.9992194175720215,
+                    "y": 4.85080099105835,
+                    "z": 6.596227169036865
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -4.832589626312256,
+                    "beta": 86.75897979736328,
+                    "gamma": 36.410011291503906
+                },
+                "timeStamp": 36667617
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:48.305Z",
+            "deviceorientation": {
+                "alpha": 62.21584678343493,
+                "beta": 39.57071456100535,
+                "gamma": 0.342225169591261,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 44448
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.400166779756546,
+                    "y": -0.08187198638916016,
+                    "z": -0.2901906967163086
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.44533511996269226,
+                    "y": 6.165257453918457,
+                    "z": 7.269018173217773
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 18.722410202026367,
+                    "beta": -11.066020965576172,
+                    "gamma": -24.174989700317383
+                },
+                "timeStamp": 36668617
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:49.253Z",
+            "deviceorientation": {
+                "alpha": 48.72619535463748,
+                "beta": 35.760811785004556,
+                "gamma": -6.058161385883699,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 45441
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6230612993240356,
+                    "y": -0.7437520027160645,
+                    "z": -0.4742894172668457
+                },
+                "accelerationIncludingGravity": {
+                    "x": 1.4629019498825073,
+                    "y": 4.987274646759033,
+                    "z": 7.439012050628662
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -60.867591857910156,
+                    "beta": -8.791020393371582,
+                    "gamma": 6.730010509490967
+                },
+                "timeStamp": 36669627
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:50.224Z",
+            "deviceorientation": {
+                "alpha": 52.58114919350148,
+                "beta": 22.974867993882793,
+                "gamma": 2.3833316029395144,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 46441
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.07466742396354675,
+                    "y": 0.33583974838256836,
+                    "z": -0.023252487182617188
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.45012366771698,
+                    "y": 4.163643836975098,
+                    "z": 8.997684478759766
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 7.732409477233887,
+                    "beta": -4.031019687652588,
+                    "gamma": -10.489990234375
+                },
+                "timeStamp": 36670627
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:51.264Z",
+            "deviceorientation": {
+                "alpha": 14.659653130283958,
+                "beta": 26.722503718048113,
+                "gamma": 2.3162891500237115,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 47440
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.31638839840888977,
+                    "y": -0.41849398612976074,
+                    "z": -0.9539403915405273
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.6703969240188599,
+                    "y": 3.99125599861145,
+                    "z": 7.798152923583984
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 17.252410888671875,
+                    "beta": -15.40601921081543,
+                    "gamma": -31.244991302490234
+                },
+                "timeStamp": 36671626
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:52.231Z",
+            "deviceorientation": {
+                "alpha": 342.4045022094445,
+                "beta": 23.79048785832624,
+                "gamma": -0.16283253481513404,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 48440
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.1109766811132431,
+                    "y": 0.7368590831756592,
+                    "z": 0.21830463409423828
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.1364736706018448,
+                    "y": 4.692778587341309,
+                    "z": 9.191620826721191
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 7.732409477233887,
+                    "beta": -0.11101999878883362,
+                    "gamma": 5.225009918212891
+                },
+                "timeStamp": 36672627
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:53.257Z",
+            "deviceorientation": {
+                "alpha": 340.82851510525046,
+                "beta": 29.164527312239347,
+                "gamma": -3.5864636221195814,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 49451
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.9068033695220947,
+                    "y": -0.5722217559814453,
+                    "z": 0.21880817413330078
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.371112585067749,
+                    "y": 4.206740856170654,
+                    "z": 8.765439987182617
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 9.517410278320312,
+                    "beta": -24.26102066040039,
+                    "gamma": -11.959990501403809
+                },
+                "timeStamp": 36673636
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:54.267Z",
+            "deviceorientation": {
+                "alpha": 312.7851877442573,
+                "beta": 30.82647805269713,
+                "gamma": -0.10751874611249909,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 50450
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.0967312902212143,
+                    "y": -0.4331021308898926,
+                    "z": 1.0769100189208984
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.112530916929245,
+                    "y": 4.59221887588501,
+                    "z": 9.498087882995605
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 15.747408866882324,
+                    "beta": 7.588979721069336,
+                    "gamma": -24.55998992919922
+                },
+                "timeStamp": 36674637
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:55.344Z",
+            "deviceorientation": {
+                "alpha": 265.8126720693302,
+                "beta": 36.27666823679404,
+                "gamma": -3.6988983730935425,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 51492
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.9800240993499756,
+                    "y": -0.1998457908630371,
+                    "z": 0.20569610595703125
+                },
+                "accelerationIncludingGravity": {
+                    "x": 2.4900457859039307,
+                    "y": 5.602602958679199,
+                    "z": 8.095043182373047
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 9.202409744262695,
+                    "beta": -57.4060173034668,
+                    "gamma": -60.049991607666016
+                },
+                "timeStamp": 36675636
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:56.298Z",
+            "deviceorientation": {
+                "alpha": 155.20511000800605,
+                "beta": 30.572380051260787,
+                "gamma": -4.191280375024914,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 52496
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.6322762966156006,
+                    "y": 0.0017480850219726562,
+                    "z": 0.3134956359863281
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.0151724815368652,
+                    "y": 4.989668846130371,
+                    "z": 8.734314918518066
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 15.712409973144531,
+                    "beta": -17.681020736694336,
+                    "gamma": -11.469989776611328
+                },
+                "timeStamp": 36676676
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:57.304Z",
+            "deviceorientation": {
+                "alpha": 178.75148894821876,
+                "beta": 26.027773244435583,
+                "gamma": -2.3110311643594965,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 53491
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.9403586387634277,
+                    "y": -1.5641593933105469,
+                    "z": 0.5614910125732422
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.5850099325180054,
+                    "y": 2.7390503883361816,
+                    "z": 9.366402626037598
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 27.01740837097168,
+                    "beta": 35.2039794921875,
+                    "gamma": 94.09001159667969
+                },
+                "timeStamp": 36677676
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:58.303Z",
+            "deviceorientation": {
+                "alpha": 268.2950179672136,
+                "beta": 25.673549649957703,
+                "gamma": -9.634214396015855,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 54493
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 1.3460636138916016,
+                    "y": -0.19756317138671875,
+                    "z": 0.23355770111083984
+                },
+                "accelerationIncludingGravity": {
+                    "x": 2.825244188308716,
+                    "y": 4.051113128662109,
+                    "z": 8.947404861450195
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -14.352590560913086,
+                    "beta": -49.35601806640625,
+                    "gamma": -51.369991302490234
+                },
+                "timeStamp": 36678676
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:00:59.344Z",
+            "deviceorientation": {
+                "alpha": 213.2220829473162,
+                "beta": 29.533377939220088,
+                "gamma": -5.998883197701168,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 55489
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.22130775451660156,
+                    "y": 0.42142629623413086,
+                    "z": 1.7809228897094727
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.6703969240188599,
+                    "y": 5.255433082580566,
+                    "z": 10.266650199890137
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 8.152409553527832,
+                    "beta": -11.066020965576172,
+                    "gamma": -14.549989700317383
+                },
+                "timeStamp": 36679676
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:00.304Z",
+            "deviceorientation": {
+                "alpha": 252.6242697208532,
+                "beta": 27.68811925643652,
+                "gamma": -4.111582381273658,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 56492
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.002491891384124756,
+                    "y": 0.09295034408569336,
+                    "z": -0.3747596740722656
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.6201171875,
+                    "y": 4.649681568145752,
+                    "z": 8.286584854125977
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -10.257590293884277,
+                    "beta": 9.828980445861816,
+                    "gamma": -60.29499053955078
+                },
+                "timeStamp": 36680676
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:01.315Z",
+            "deviceorientation": {
+                "alpha": 233.87567509365957,
+                "beta": 32.47256376739744,
+                "gamma": -3.4315394740020406,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 57500
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.3379920423030853,
+                    "y": -1.2690978050231934,
+                    "z": 1.9315032958984375
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.8332076072692871,
+                    "y": 3.996044635772705,
+                    "z": 10.190033912658691
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 25.722410202026367,
+                    "beta": 21.868980407714844,
+                    "gamma": 8.550010681152344
+                },
+                "timeStamp": 36681686
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:02.296Z",
+            "deviceorientation": {
+                "alpha": 240.09717727228593,
+                "beta": 32.51929356507202,
+                "gamma": -4.691581675577647,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 58499
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.19030839204788208,
+                    "y": -0.5288405418395996,
+                    "z": 1.0556097030639648
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.4860377907752991,
+                    "y": 4.743058204650879,
+                    "z": 9.296969413757324
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 17.532411575317383,
+                    "beta": 15.008980751037598,
+                    "gamma": 28.745012283325195
+                },
+                "timeStamp": 36682686
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:03.326Z",
+            "deviceorientation": {
+                "alpha": 269.23038741162856,
+                "beta": 30.754666163253276,
+                "gamma": -1.4126719374054648,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 59500
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -1.1966090202331543,
+                    "y": -2.086562395095825,
+                    "z": 1.607086181640625
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.9888355135917664,
+                    "y": 2.9281980991363525,
+                    "z": 10.032011032104492
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": -15.472589492797852,
+                    "beta": 11.613980293273926,
+                    "gamma": 8.445011138916016
+                },
+                "timeStamp": 36683685
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:04.319Z",
+            "deviceorientation": {
+                "alpha": 327.9754566478212,
+                "beta": 27.848195980765112,
+                "gamma": 0.4078712577739275,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 60534
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.6099985241889954,
+                    "y": 1.0072455406188965,
+                    "z": -0.7001609802246094
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.5482889413833618,
+                    "y": 5.588237285614014,
+                    "z": 7.970541000366211
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 28.767412185668945,
+                    "beta": -11.591020584106445,
+                    "gamma": 7.570009708404541
+                },
+                "timeStamp": 36684685
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:05.347Z",
+            "deviceorientation": {
+                "alpha": 357.4036048221935,
+                "beta": 28.74884223164103,
+                "gamma": 3.6819182063153972,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 61530
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.27149343490600586,
+                    "y": -0.02155590057373047,
+                    "z": -0.5784273147583008
+                },
+                "accelerationIncludingGravity": {
+                    "x": -0.8236305117607117,
+                    "y": 4.6951727867126465,
+                    "z": 8.001666069030762
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 0.24241000413894653,
+                    "beta": 17.143980026245117,
+                    "gamma": 48.41501235961914
+                },
+                "timeStamp": 36685715
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:06.343Z",
+            "deviceorientation": {
+                "alpha": 37.94040711429727,
+                "beta": 30.618228153547346,
+                "gamma": 7.166728547139026,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 62530
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": -0.1251133680343628,
+                    "y": -0.1821746826171875,
+                    "z": -0.5178613662719727
+                },
+                "accelerationIncludingGravity": {
+                    "x": -1.1779831647872925,
+                    "y": 4.812492370605469,
+                    "z": 7.855615615844727
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 6.052410125732422,
+                    "beta": 33.27898025512695,
+                    "gamma": 20.590009689331055
+                },
+                "timeStamp": 36686715
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        },
+        {
+            "timestamp": "2019-02-04T07:01:07.434Z",
+            "deviceorientation": {
+                "alpha": 3.668009667245507,
+                "beta": 27.263778404568388,
+                "gamma": 1.4672535469302985,
+                "absolute": false,
+                "bubbles": true,
+                "timeStamp": 63530
+            },
+            "devicemotion": {
+                "acceleration": {
+                    "x": 0.5943293571472168,
+                    "y": 0.6075143814086914,
+                    "z": 0.8148670196533203
+                },
+                "accelerationIncludingGravity": {
+                    "x": 0.371112585067749,
+                    "y": 5.0998053550720215,
+                    "z": 9.529213905334473
+                },
+                "interval": 100,
+                "rotationRate": {
+                    "alpha": 6.157410144805908,
+                    "beta": -19.95602035522461,
+                    "gamma": -23.649991989135742
+                },
+                "timeStamp": 36687714
+            },
+            "navigator": {
+                "appCodeName": "Mozilla",
+                "appVersion": "5.0 (Android 9)",
+                "hardwareConcurrency": 8,
+                "appName": "Netscape",
+                "languages": [
+                    "en-US",
+                    "en"
+                ],
+                "language": "en-US",
+                "platform": "Linux armv8l",
+                "product": "Gecko",
+                "userAgent": "Mozilla/5.0 (Android 9; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0",
+                "vendor": "",
+                "connection": {
+                    "type": "cellular"
+                }
+            }
+        }
+    ]
+}
